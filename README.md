@@ -57,13 +57,11 @@ Banyak orang ingin membuat dessert di rumah, tetapi sering kesulitan menemukan r
 
 * Aplikasi dapat menampilkan daftar resep
 * Aplikasi dapat menampilkan detail resep
-* Aplikasi memiliki fitur pencarian
 * Aplikasi dapat menyimpan data favorit
 
 ### 7. Kebutuhan Non-Fungsional
 
 * UI sederhana dan mudah digunakan
-* Waktu loading cepat
 * Dapat berjalan di perangkat Android
 
 ### 8. Platform
@@ -84,8 +82,6 @@ Banyak orang ingin membuat dessert di rumah, tetapi sering kesulitan menemukan r
 ### 11. Risiko
 
 * Data resep terbatas
-* UI kurang menarik
-* Bug pada fitur pencarian
 
 ### 12. Keberhasilan Produk
 
